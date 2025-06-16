@@ -1,6 +1,6 @@
 # Hi there 🖖
 
-I'm Sergey, a developer from Berlin. I'm specializing in PHP, Node.js, React and CI/CD.
+I'm Sergey, a Software Engineering Manager from Berlin. I'm specializing in CI/CD, Node.js, React and PHP.
 
 On this page, you'll find my projects and coding adventures. I'm open to collaboration and knowledge-sharing.
 
@@ -17,21 +17,23 @@ On this page, you'll find my projects and coding adventures. I'm open to collabo
 
 ## How to support
 
-Around a decade ago, I was actively involved in the open-source projects related to Material Design, and now I'm ready
-to contribute to open source again.
+Around a decade ago, I was actively involved in the open-source projects related to Material Design, and now I'm contributing 
+to open source again doing [Docker Compose Linter](https://github.com/docker-compose-linter/).
 
 You can support my efforts with a donation:
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/zavoloklom)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=ZKLT8EJ4KWA6L)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=J8KS3RUFKSHDL)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/zavoloklom)
+[![Boosty](https://img.shields.io/badge/Boosty-FF7200?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/zavoloklom)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/zavoloklom)
 
 ## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zavoloklom/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zavoloklom/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zavoloklom)
+[![X/Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/zavoloklom)
+[![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zavoloklom)
+[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/zavoloklom)
 <!-- ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) -->
 <!-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) -->
-<!-- ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) -->
-<!-- ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) -->
 <!-- ![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) -->
