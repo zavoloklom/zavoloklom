@@ -25,7 +25,7 @@ You can support my efforts with a donation:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=J8KS3RUFKSHDL)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/zavoloklom)
 [![Boosty](https://img.shields.io/badge/Boosty-FF7200?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/zavoloklom)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/zavoloklom?style=for-the-badge&logo=github)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/zavoloklom?style=for-the-badge&logo=github)](https://github.com/sponsors/zavoloklom)
 
 ## Contacts
 
